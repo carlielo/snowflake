@@ -1,4 +1,4 @@
 #!/bin/sh
 
 echo "Hello World!"
-echo "newer than new"
+echo "after fogbugz"
