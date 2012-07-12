@@ -1,4 +1,8 @@
 #!/bin/sh
 
 echo "Hello World!"
+<<<<<<< HEAD
 echo "Fogbugz"
+=======
+echo "newer than new"
+>>>>>>> eaa9b4083eea90a5aa5b45c6daa1c7c49d2c95c4
